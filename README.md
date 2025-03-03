@@ -32,7 +32,7 @@ https://www.figma.com/design/bfQRQnHxklgU6Hkj8CknYh/Untitled?node-id=0-1&t=lUqb9
 
 | Favorites System | Search Recipes | Detail View |
 |---|---|---|
-| ![Favorites](https://github.com/user-attachments/assets/834fa47c-5bb9-410e-8d1a-394e2fe05d54) https://github.com/user-attachments/assets/5c7e4da4-5cf1-42dd-8830-53a5c992110b | ![Search](https://github.com/user-attachments/assets/82570798-858f-4e68-b547-84d06c5676c9) https://github.com/user-attachments/assets/19dca29c-7359-4c93-b3c9-13eee172c31b | ![DetailView](https://github.com/user-attachments/assets/33156341-cef7-4aa7-a5c8-9d6757b33dd7)d https://github.com/user-attachments/assets/ea9c5ee1-d0cd-463d-b232-9c6dfd7991ab |
+| ![Favorites](https://github.com/user-attachments/assets/834fa47c-5bb9-410e-8d1a-394e2fe05d54) https://github.com/user-attachments/assets/5c7e4da4-5cf1-42dd-8830-53a5c992110b | ![Search](https://github.com/user-attachments/assets/82570798-858f-4e68-b547-84d06c5676c9) https://github.com/user-attachments/assets/19dca29c-7359-4c93-b3c9-13eee172c31b | ![DetailView](https://github.com/user-attachments/assets/33156341-cef7-4aa7-a5c8-9d6757b33dd7) https://github.com/user-attachments/assets/ea9c5ee1-d0cd-463d-b232-9c6dfd7991ab |
 
 #### Loading Screens
 | Loading Recipes | Loading Images | 
